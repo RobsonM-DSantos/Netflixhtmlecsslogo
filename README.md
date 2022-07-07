@@ -6,4 +6,3 @@ Logotipo da Netflix usando HTML e CSS
 <br><br>
 
 <h1>Na imagem está como deve ficar no resultado final do projeto </h1>
-https://robsonm-dsantos.github.io/Netflixhtmlecsslogo/
